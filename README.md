@@ -35,6 +35,14 @@ LanguageTool will be available at [http://localhost:6123](http://localhost:6123)
 
 See [https://languagetool.org/chrome](https://languagetool.org/chrome)
 
+In the extension **_settings_** -> **_Advanced settings (only for professional users)_**
+
+Under **_LanguageTool server:_**, select **_Other server—requires LanguageTool server running there_** and enter the following address in the text input:
+
+```
+http://localhost:6123/v2
+```
+
 ## About LanguageTool
 
 LanguageTool helps you check grammar, spelling, and style errors in over 20 languages. For more information, visit:
